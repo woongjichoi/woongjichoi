@@ -1,3 +1,3 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=allison1998)](https://solved.ac/allison1998)  
-![woongjichoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongjichoi&show_icons=true&theme=vue)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:choiwoongji@gmail.com)   [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://cslife.tistory.com/)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoongjichoi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allison1998">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=woongjichoi&count_private=true&show_icons=true&theme=buefy" height="165">
